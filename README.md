@@ -61,12 +61,15 @@
 
 ## 💌 Let's Connect 💌
 
-<a href="https://instagram.com/vvparraf" target="_blank">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" width="50" height="50"/>
-</a>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+  <a href="https://instagram.com/vvparraf" target="_blank">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" width="50" height="50" />
+  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="200" />
+</div>
 
-<img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="200" />
-
-<p style="font-family: 'Montserrat', sans-serif;"><h3><strong>Thanks for visiting my profile! 💕</strong></h3></p>
+<p style="font-family: 'Montserrat', sans-serif; margin-top: 20px;">
+  <h3><strong>Thanks for visiting my profile! 💕</strong></h3>
+</p>
 
 </div>
