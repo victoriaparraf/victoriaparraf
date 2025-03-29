@@ -7,8 +7,8 @@
 <div>
   <img src="https://i.pinimg.com/originals/28/33/4f/28334f3c5ff34b65ef4754c871ea46af.gif" width="150" alt="coding girl gif">
 </div>
-<p style="font-family: 'Lexend', sans-serif; font-size: 18px; color:rgb(254, 198, 247); margin: 15px 0;">
-  🎓 Andrés Bello Catholic University, Software Engineering 🎓
+<p style="font-family: 'Montserrat', sans-serif; margin-top: 20px;">
+  <h3><strong>T🎓 Andrés Bello Catholic University, Software Engineering 🎓</strong></h3>
 </p>
 <div style="display: flex; align-items: center; justify-content: center;">
 <img src="https://img.shields.io/badge/Status-Coding%20with%20love-ff69b4?style=for-the-badge" alt="Status">
