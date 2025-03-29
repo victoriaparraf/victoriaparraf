@@ -48,15 +48,21 @@
 <br>
 
 ## 📊 GitHub Stats 📊
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=victoriaparraf&show_icons=true&theme=omni" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriaparraf&layout=compact&theme=omni" alt="Top Languages" />
-  </div>
-  <div>
-    <img src="https://user-images.githubusercontent.com/74038190/216654136-2b97900b-59ee-45c5-87bb-0c359e31dd2f.gif" width="200" />
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=victoriaparraf&show_icons=true&theme=omni" alt="GitHub Stats" />
+    </td>
+    <td rowspan="2" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/216654136-2b97900b-59ee-45c5-87bb-0c359e31dd2f.gif" width="200" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriaparraf&layout=compact&theme=omni" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 <br>
 
 ## 💌 Let's Connect 💌
