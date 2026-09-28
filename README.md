@@ -1,82 +1,69 @@
 <div align="center">
 
-# ✨ Welcome to My GitHub Profile! ✨
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=200&section=header&text=Victoria%20Parra&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%C2%B7%20Full-Stack%20Developer&descSize=16&descAlignY=60" alt="Header banner" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=435&lines=Victoria+Vanessa+Parra+Franco" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=D6478F&center=true&vCenter=true&width=520&lines=Building+clean+and+scalable+software;Backend+%7C+APIs+%7C+Frotend+%7C+Databases;Turning+ideas+into+working+products+%F0%9F%8C%B8" alt="Typing SVG" />
+</a>
 
-<div>
-  <img src="https://i.pinimg.com/originals/28/33/4f/28334f3c5ff34b65ef4754c871ea46af.gif" width="150" alt="coding girl gif">
+<br><br>
+
+<img src="https://img.shields.io/badge/Universidad%20Cat%C3%B3lica%20Andr%C3%A9s%20Bello-Software%20Engineering-D6478F?style=for-the-badge&logo=googlescholar&logoColor=white" alt="UCAB" />
+<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collabs-B57EDC?style=for-the-badge" alt="Open to opportunities" />
+
 </div>
-<p style="font-family: 'Montserrat', sans-serif; margin-top: 20px;">
-  <h3><strong>🎓 Andrés Bello Catholic University, Software Engineering 🎓</strong></h3>
-</p>
-<div style="display: flex; align-items: center; justify-content: center;">
-<img src="https://img.shields.io/badge/Status-Coding%20with%20love-ff69b4?style=for-the-badge" alt="Status">
-</div>
+
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> My Skills <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
+## 🌷 About Me
 
-<p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Light.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Dark.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg" width="50" height="50"/>
-</p>
-<p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Light.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MongoDB.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Firebase-Dark.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NestJS-Dark.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/FastAPI.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Dark.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/RabbitMQ-Dark.svg" width="50" height="50"/>
-</p>
-<p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Postman.svg" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" width="50" height="50"/>
-  <img src="https://www.svgrepo.com/show/353566/cloudinary.svg" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="50" height="50"/>
-</p>
+Software Engineering student at **Universidad Católica Andrés Bello**, passionate about building reliable backend systems and clean, user-friendly applications. I enjoy working across the stack, from designing APIs and databases to shaping the interface with care for detail.
+
+- 🔭 Currently working on: **ETL processes with Python and Power BI**
+- 🌱 Currently learning: **React Native and mobile app development**
+- 🤝 Looking for: **internships, junior roles and collaborations**
+
 <br>
 
-## 📊 GitHub Stats 📊
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=victoriaparraf&show_icons=true&theme=omni" alt="GitHub Stats" />
-    </td>
-    <td rowspan="2" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/216654136-2b97900b-59ee-45c5-87bb-0c359e31dd2f.gif" width="200" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoriaparraf&layout=compact&theme=omni" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+## 💻 Tech Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,php&theme=light" alt="Languages" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,rabbitmq,postgres,mysql,mongodb,firebase&theme=light" alt="Backend and databases" />
+
+**Frontend & Mobile** 🌸 *(currently learning React Native)*
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,androidstudio&theme=light" alt="Frontend and mobile" />
+
 <br>
 
-## 💌 Let's Connect 💌
+<img src="https://img.shields.io/badge/React%20Native-D6478F?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
+<img src="https://img.shields.io/badge/Expo-B57EDC?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+<img src="https://img.shields.io/badge/React%20Navigation-F7A8CE?style=for-the-badge&logo=react&logoColor=white" alt="React Navigation" />
+<img src="https://img.shields.io/badge/REST%20APIs-D6478F?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-  <a href="https://instagram.com/vvparraf" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" width="50" height="50" />
-  </a>
-</div>
+**Tools & Cloud**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,gcp,powerbi&theme=light" alt="Tools" />
+
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="200" />
 
-<p style="font-family: 'Montserrat', sans-serif; margin-top: 20px;">
-  <h3><strong>Thanks for visiting my profile! 💕</strong></h3>
-</p>
+## 💌 Let's Connect
+
+<div align="center">
+
+<a href="https://instagram.com/vvparraf"><img src="https://img.shields.io/badge/Instagram-vvparraf-D6478F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/victoria-vanessa-parra-franco-a21a97378/"><img src="https://img.shields.io/badge/LinkedIn-Victoria%20Vanessa%20Parra%20Franco-B57EDC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:victoriaparrafranco@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-F7A8CE?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br><br>
+
+<sub>Thanks for stopping by 💕 Feel free to explore my repos or reach out!</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=100&section=footer" alt="Footer" />
 
 </div>
